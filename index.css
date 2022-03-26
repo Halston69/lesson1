@@ -1,0 +1,91 @@
+.first_screen
+{
+    height: 970px;
+    background: url("/husky.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body 
+{
+    margin: 0;
+    padding: 0;
+}
+
+.container 
+{
+    max-width: 1200px;
+    margin: 0 auto;
+    justify-content: space-between;
+    display: flex;
+}
+
+.logo
+{
+    width: 100px;
+    height: 100px;
+    margin-top: 30px;
+}
+
+.nav_menu
+{
+    display: flex;
+    list-style: none;
+    margin-top: 30px;
+    align-items: center;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.nav_links
+{
+    margin: 0 15px;
+}
+.nav_link
+{
+    color: blue;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: yellow;
+    border-radius: 20px;
+}
+.button
+{
+    padding: 3px 20px;
+    font-size: 20px;
+    border: none;
+    font-family: 'Balsamiq Sans', cursive;
+    background-color: #CC0065;
+    border-radius: 20px;
+    color: white;
+}
+.col
+{
+    max-width: 500px;
+
+}
+.title
+{
+    color: violet;
+}
+.cta 
+{
+    padding: 20px;
+}
+h1
+{
+    font-family: 'Balsamiq Sans', cursive;
+}
+.su_button
+{
+    border: 3px solid whitesmoke;
+    background-color: transparent;
+    font-family: 'Balsamiq Sans', cursive;
+    padding: 17px;
+    margin-left: 20px;
+    background-color: #CC0065;
+    color: whitesmoke;
+    border-radius: 20px;
+}
+.mid_section
+{
+    margin-top: 200px;
+}
